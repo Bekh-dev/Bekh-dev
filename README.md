@@ -11,6 +11,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/istamov_bekzod)
 
 I'm a backend developer from Uzbekistan.
+
 I'm interested in web development and games. Also, I hate C++💀
 
 <details align="left">
