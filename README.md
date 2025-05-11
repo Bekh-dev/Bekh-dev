@@ -6,3 +6,6 @@
     <img width="600" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bekh-dev/Bekh-dev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/istamov_bekzod)
