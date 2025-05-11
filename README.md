@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/Bekh-dev/Bekh-dev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bekh-dev/Bekh-dev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bekh-dev/Bekh-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
