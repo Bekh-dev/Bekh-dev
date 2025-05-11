@@ -21,7 +21,7 @@ I'm interested in web development and games. Also, I hate C++💀
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=react,git,bootstrap,tailwind&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudiocode,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,neovim,postman,ultimate&perline=7" />
     <br>
   </p>
 </details>
