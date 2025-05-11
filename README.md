@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Bekhzod </h1>
+<h1 align="center">🧑‍💻 Hello! I'm Bekhzod </h1>
 
 <p align="center">
   <picture>
